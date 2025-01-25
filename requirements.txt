@@ -1,0 +1,3 @@
+beautifulsoup4==4.12.3
+larousse_api_sunbro==0.0.5
+Requests==2.32.3
